@@ -1,3 +1,4 @@
+
 {
     "log": {
         "disabled": false,
@@ -13,8 +14,8 @@
             //            "secret": "",
             //            "default_mode": "rule",
             "store_selected": true,
-            "experimental.cache_file": "clash.db"
-        }
+        },
+        "cache_file": "clash.db"
     },
     "dns": {
         "servers": [
@@ -113,7 +114,9 @@
             "server_port": 12857,
             "user": "b6540c1c-d6cb-420d-9585-dab63ef61e6b",
             "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUx\nOQAAACDycr0HyLnZKZwg6UzXgtOH2i9pq+CzQC6o0TmDHhgjxgAAAIhRrimHUa4phwAAAAtzc2gt\nZWQyNTUxOQAAACDycr0HyLnZKZwg6UzXgtOH2i9pq+CzQC6o0TmDHhgjxgAAAEAKOxp7OHJ9n716\npTeHJIXge8MIjJWKZfyPrXwYKtwbg/JyvQfIudkpnCDpTNeC04faL2mr4LNALqjROYMeGCPGAAAA\nAAECAwQF\n-----END OPENSSH PRIVATE KEY-----\n", //ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPJyvQfIudkpnCDpTNeC04faL2mr4LNALqjROYMeGCPG
-            "host_key": ["ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBN041RD/clEXgn71r4z4haqXrL1wuIT//0hCyueMqGttyPrjzyxPRuACMCtQteHyR+FPLl+c1p3noQZGvmom1c0=", "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMA+Kvjax7Gr04xcI08tGU100QdS/3+ZkiB1jkwU34bv"]
+
+Saeed Motevalian, [2024-01-13 11:01 A.M.]
+"host_key": ["ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBN041RD/clEXgn71r4z4haqXrL1wuIT//0hCyueMqGttyPrjzyxPRuACMCtQteHyR+FPLl+c1p3noQZGvmom1c0=", "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMA+Kvjax7Gr04xcI08tGU100QdS/3+ZkiB1jkwU34bv"]
         },
         {
             "tag": "direct",
