@@ -13,7 +13,7 @@
             //            "secret": "",
             //            "default_mode": "rule",
             "store_selected": true,
-            "cache_file": "experimental.clash.db"
+            "experimental.cache_file": "clash.db"
         }
     },
     "dns": {
